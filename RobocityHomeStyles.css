@@ -1,0 +1,20 @@
+body{
+  background-color: SlateGrey;
+}
+  table{
+    background-color: SeaShell;
+    text-align: center;
+    padding: 20px;
+    border-collapse: collapse;
+    margin-right: 50px;
+  }
+.nav a{
+  font-family: Verdana, Geneva, sans-serif;
+  color: orange;
+}
+.nav a:hover {
+  color: white;
+}
+#cbutton{
+  float: right;
+}
